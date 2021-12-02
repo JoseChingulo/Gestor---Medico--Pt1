@@ -13,12 +13,12 @@ module.exports = {
 				{
 					name: 'Francisca Nadia',
 					email: 'fran.nadia@hotmail.com',
-					phone: '999995656',
+					phone: '993495656',
 				},
 				{
 					name: 'Galvino Kaleison',
 					email: 'galivino.ka@gmail.com',
-					phone: '999996569',
+					phone: '995496569',
 				},
 				{
 					name: 'Teresa Cardoso',
@@ -28,12 +28,12 @@ module.exports = {
 				{
 					name: 'Andre Magalhães',
 					email: 'andre.01@gmail.com',
-					phone: '99346789',
+					phone: '993446789',
 				},
 				{
 					name: 'Monica Gale',
 					email: 'gale.mon@outlook.com',
-					phone: '987336789',
+					phone: '998733689',
 				},
 			],
 			{}
